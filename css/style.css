@@ -1,0 +1,41 @@
+
+.input{
+      margin: auto;
+      width: 50%;
+      border: 3px solid mediumpurple;
+      padding: 20px;
+}
+
+.button{
+
+    border-radius: 25px;
+  border: 2px solid mediumpurple;
+  padding: 5px;
+  width: 100px;
+  height: 30px;
+}
+
+button:hover {
+    background-color: darkmagenta ;
+}
+
+.Eren{
+    border-radius: 5px 30px;
+}
+
+.Levi1{
+    border-radius: 5px;
+}
+
+.levi{
+
+}
+
+body{
+    background-image: url("Images/sunset.jpg");
+    background-size: cover;
+
+}
+.margin{
+    margin: 80px;
+}

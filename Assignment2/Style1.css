@@ -1,0 +1,18 @@
+
+ body{
+     background-color: tan;
+ }
+
+ .container{
+
+     margin: 0 300px;
+     border: solid black;
+     border-style: solid ;
+     text-align: center;
+     background-color: antiquewhite;
+
+ }
+ .custom-select{
+     background-color: darkkhaki;
+
+ }
